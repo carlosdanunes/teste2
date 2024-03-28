@@ -1,0 +1,5 @@
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    # Substitua "*" com o domínio específico se quiser restringir a origem
+</IfModule>
+
